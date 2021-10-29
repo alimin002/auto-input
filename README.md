@@ -14,4 +14,5 @@ contoh:
 <li>6.jika ada pesan konfirmasi untuk penambahan dummy maka installasi anda berhasil</li>
 
 </ul>
+<p>Jika ada yg kurang jelas atau terjadi masalah selama pemasangan kirim email ke saya di alimin1313@gmail.com</p>
 
