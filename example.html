@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example</title>
+    <script src="auto-input.js"></script>
+    
+  </head>
+  <body>
+    <fieldset>
+    <Legend>Biodata</Legend>
+    Name<input type="text" name="name" id="name"><br>
+    Full Name<input type="text" name="full_name" id="full_name"><br>
+    Birth of date<input type="date" name="birth_of_date" id="birth_of_date"><br>
+    Age<input type="number" name="full_name" id="full_name"><br>
+    gender<input type="checkbox" name="check_gender" id="check_gender"><br>
+    Bio<textarea name="biografi" id="biografi"></textarea><br>
+    Bio2<textarea name="biografi2" id="biografi2"></textarea><br>
+    </fieldset>
+    <!-- <button onclick="cek_tipe()">Cek tipe</button> -->
+    <script>
+            function cek_tipe(){
+                console.log(typeof document.getElementById("birth_of_date").value);
+                document.getElementById("birth_of_date").value="2005-05-05";
+                console.log(document.getElementById("check_gender").value)
+            }
+    </script>
+  </body>
+</html>
