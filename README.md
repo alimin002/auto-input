@@ -1,10 +1,11 @@
 # auto-input
 
-Installasi
-
-1.clone/download repository 
-2.copy dan paste auto-input.js pada directory assets js anda
-3.tambahkan kode <script src="[path_file]/auto-input.js"></script> pada tag head html 
+<p>auto-input.js library untuk mempermudah membuat dummy data untuk seluruh input form HTML yang anda buat cukup hanya menekan tombol "i" pada keyboard seluruh form isian anda akan terisi otomatis tanpa mengetik satu persatu</p>
+<h3>Installasi</h3>
+<ul>
+<li>1.clone/download repository</li>
+<li>2.copy dan paste auto-input.js pada directory assets js anda</li>
+<li>3.tambahkan kode <script src="[path_file]/auto-input.js"></script> pada tag head html 
 contoh:
 <!DOCTYPE html>
 <html>
@@ -26,8 +27,10 @@ contoh:
     </fieldset>
   </body>
 </html>
+</li>
+<li>4.reload browser</li>
+<li>5.tekan button i pada keyboard diluar input form</li>
+<li>6.jika ada pesan konfirmasi untuk penambahan dummy maka installasi anda berhasil</li>
 
-4.reload browser
-5.tekan button i pada keyboard diluar input form
-6.jika ada pesan konfirmasi untuk penambahan dummy maka installasi anda berhasil
+</ul>
 
