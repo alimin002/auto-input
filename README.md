@@ -1,6 +1,6 @@
 # auto-input
 
-<p>auto-input.js library untuk mempermudah membuat dummy data untuk seluruh input form HTML yang anda buat cukup hanya menekan tombol "i" pada keyboard seluruh form isian anda akan terisi otomatis tanpa mengetik satu persatu</p>
+<p>auto-input.js library untuk mempermudah membuat dummy data untuk seluruh input form HTML yang anda buat. Cukup hanya menekan tombol "i" pada keyboard seluruh form isian anda akan terisi otomatis tanpa mengetik satu persatu</p>
 <h3>Installasi</h3>
 <ul>
 <li>1.clone/download repository</li>
