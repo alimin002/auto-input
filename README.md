@@ -17,8 +17,12 @@ contoh:
 <li>4.reload browser</li>
 <li>5.tekan button i pada keyboard diluar input form</li>
 <li>6.jika ada pesan konfirmasi untuk penambahan dummy maka installasi anda berhasil</li>
+<li>
+  Instalasi Online CDN Berhasil <br/>
+  <img src="https://github.com/alimin002/auto-input/blob/master/on_installation_success.jpg">
+</li>
 </ul>
-<i>instalasi di server local</i>
+<i>Instalasi di server local</i>
 <ul>
 <li>1.clone/download repository</li>
 <li>2.copy dan paste auto-input.js pada directory assets js anda</li>
