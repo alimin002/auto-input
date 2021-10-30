@@ -20,6 +20,8 @@ contoh:
 <li>
   Instalasi Online CDN Berhasil <br/>
   <img src="https://github.com/alimin002/auto-input/blob/master/on_installation_success.jpg">
+  <br/>
+  <img src="https://github.com/alimin002/auto-input/blob/master/on_installation_success2.jpg">
 </li>
 </ul>
 <i>Instalasi di server local</i>
