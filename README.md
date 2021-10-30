@@ -5,10 +5,10 @@
 <i>instalasi Menggunan Online CDN</i>
 <p>Dengan menggunakan online CDN intallasi library akan lebih cepat.Untuk bisa digunakan menggunakan Online CDN pastikan koneksi internet anda hidup.berikut langkah langkahnya</p>
 <ul>
-<li>1.Copy url berikut ini https://cdn.jsdelivr.net/gh/alimin002/auto-input@e8403157941772aec31f56c1495e841ef5868ed3/auto-input.js</li>
+<li>1.Copy url berikut ini https://cdn.jsdelivr.net/gh/alimin002/auto-input@v1.0-beta-5-gc21a14b/auto-input.js</li>
 <li>
   2.paste url ke dalam tag header pada kode html anda 
-  <script src="https://cdn.jsdelivr.net/gh/alimin002/auto-input@e8403157941772aec31f56c1495e841ef5868ed3/auto-input.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/alimin002/auto-input@v1.0-beta-5-gc21a14b/auto-input.js"></script>
   </li>
 <li>
 contoh:
