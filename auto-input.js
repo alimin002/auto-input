@@ -1,6 +1,9 @@
-//auto-input versi 1
-//author:Alimin 
-//email:alimin1313@gmail.com
+/*!
+ * auto-input version v1.0.0-beta(https://github.com/alimin002/auto-input)
+ * author       :Alimin
+ * email        :alimin1313@gmail.com
+ * documentation:https://github.com/alimin002/auto-input/blob/master/README.md
+ */
 	document.onkeypress  = function(event){
     if (event.keyCode === 105) {
       if (confirm('ini adalah fitur untuk membuat input dummy!,Klik button oke untuk membuat dummy data secara otomatis, Klik button No untuk membatalkan?')) {
