@@ -1,5 +1,5 @@
 /*!
- * auto-input version v1.0.0-beta(https://github.com/alimin002/auto-input)
+ * auto-input version v1.0-beta-5-gc21a14b(https://github.com/alimin002/auto-input)
  * author       :Alimin
  * email        :alimin1313@gmail.com
  * documentation:https://github.com/alimin002/auto-input/blob/master/README.md
