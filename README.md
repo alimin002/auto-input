@@ -3,7 +3,7 @@
 <p>auto-input.js library untuk mempermudah membuat dummy data untuk seluruh input form HTML yang anda buat. Cukup hanya menekan tombol "i" pada keyboard seluruh form isian anda akan terisi otomatis tanpa mengetik satu persatu</p>
 <h3>Installasi</h3>
 <i>instalasi Menggunan Online CDN</i>
-<p>Dengan menggunakan online CDN intallasi library akan lebih cepat untuk bisa digunakan menggunakan Online CDN pastikan koneksi internet anda hidup.berikut langkah langkahnya</p>
+<p>Dengan menggunakan online CDN intallasi library akan lebih cepat.Untuk bisa digunakan menggunakan Online CDN pastikan koneksi internet anda hidup.berikut langkah langkahnya</p>
 <ul>
 <li>1.Copy url berikut ini https://cdn.jsdelivr.net/gh/alimin002/auto-input@e8403157941772aec31f56c1495e841ef5868ed3/auto-input.js</li>
 <li>
