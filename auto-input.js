@@ -6,7 +6,7 @@
  */
 	document.onkeypress  = function(event){
     if (event.keyCode === 105) {
-      if (confirm('ini adalah fitur untuk membuat input dummy!,Klik button oke untuk membuat dummy data secara otomatis, Klik button No untuk membatalkan?')) {
+      if (confirm('ini adalah fitur untuk membuat input dummy!,Klik button oke untuk membuat dummy data secara otomatis, Klik button No untuk membatalkan')) {
         var input = document.getElementsByTagName('INPUT');
         for (var i = 0; input[i]; i++){
           var input_type=input[i].getAttribute("type");
